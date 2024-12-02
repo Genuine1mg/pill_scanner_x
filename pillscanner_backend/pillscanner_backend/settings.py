@@ -25,8 +25,7 @@ SECRET_KEY = 'django-insecure-*v4yoqlnshvf655&98cg_*er$6bc8fqhxtn+)ualnz5sf6utnb
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = ['pillscanner_backend.up.railway.app']
 
 # Application definition
 
