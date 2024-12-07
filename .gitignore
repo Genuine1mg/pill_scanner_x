@@ -1,1 +1,28 @@
 3.10venv/
+# Virtual environment
+venv/
+env/
+*.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Database files
+db.sqlite3
+
+# Media files
+media/
+
+# Logs
+*.log
+
+# Django stuff:
+*.pot
+*.pyc
+
+# .env file
+.env
+
+# Ignore the fine-tuned model
+fine_tuned_med7_model/

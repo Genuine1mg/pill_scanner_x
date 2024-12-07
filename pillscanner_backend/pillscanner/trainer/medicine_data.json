@@ -1,0 +1,827 @@
+[
+  {
+    "text": "Vatby TORPENT PHARMACE UTCAS LID hO92 T21 Dit Mehsan NOA NRinda b G4 New Pha p No. 5A742 PPoCEonic Park, Puduchey-805 107 TRIOLSAR 20HS) Lach lim coaled tabie onta Oan ledoxomP Aodipine Besyate tP 6QUvaienl Amiodp Chiorthaicdone iP g 125 mg EXOpents ColouFeric OÓe Rec NE Dosage : As diret by he Prysician STORE INACOoLAND DRY PACE PROTEOT FROM LIGHT ANO MOSTURE Keep al medicines out of reach ol Ghig WARNING FETAL TOXICITY When preganoy s delected discorinue pe Triolsar 20 HS",
+    "entities": [
+      {
+        "start": 464,
+        "end": 472,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "When preganoy s delected discorinue pe Triolsar 20 HS",
+    "entities": [
+      {
+        "start": 39,
+        "end": 47,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Take 100mg of Aspirin twice daily.",
+    "entities": [
+      {
+        "start": 14,
+        "end": 21,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Ibuprofen and Paracetamol are common pain relievers.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "MEDICINE"
+      },
+      {
+        "start": 14,
+        "end": 25,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Doctors often prescribe Amoxicillin for bacterial infections.",
+    "entities": [
+      {
+        "start": 24,
+        "end": 35,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Metformin is used to treat type 2 diabetes.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "You can take Cetirizine for allergies and rashes.",
+    "entities": [
+      {
+        "start": 13,
+        "end": 23,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "The pharmacist recommended Diclofenac for muscle pain.",
+    "entities": [
+      {
+        "start": 27,
+        "end": 37,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Omeprazole helps reduce stomach acid production.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "For high blood pressure, Amlodipine is commonly prescribed.",
+    "entities": [
+      {
+        "start": 25,
+        "end": 35,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Patients with asthma often use Salbutamol inhalers.",
+    "entities": [
+      {
+        "start": 31,
+        "end": 41,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Acetaminophen is a common alternative to Aspirin.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 13,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Ranitidine was once used for acid reflux but is now banned.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Ciprofloxacin is prescribed for urinary tract infections.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 13,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Atorvastatin helps manage high cholesterol levels.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "The child was given Albendazole for deworming.",
+    "entities": [
+      {
+        "start": 20,
+        "end": 31,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Azithromycin is a popular choice for treating bacterial infections.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Doctors may suggest Levothyroxine for thyroid disorders.",
+    "entities": [
+      {
+        "start": 20,
+        "end": 33,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Prednisolone is often prescribed for inflammation.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Clopidogrel is used to prevent blood clots.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "The prescription included Rosuvastatin for cholesterol control.",
+    "entities": [
+      {
+        "start": 26,
+        "end": 38,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Doxycycline is commonly used to treat infections.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Vitamin supplements like Cyanocobalamin are essential for health.",
+    "entities": [
+      {
+        "start": 25,
+        "end": 39,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Children are often prescribed Amoxiclav for infections.",
+    "entities": [
+      {
+        "start": 30,
+        "end": 39,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Pantoprazole is effective for treating stomach ulcers.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Hydroxychloroquine gained attention during the pandemic.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 18,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Nitrofurantoin is often used for urinary tract infections.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 14,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Dompa40mg Tablet",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "AcezineS 100mg/325mg/15mg Tablet",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Alclor 250mg Tablet",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "SeratechD 50mg/10mg Tablet",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "TecnumSB 1000mg/500mg Injection",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Trib80mgInjection",
+    "entities": [
+      {
+        "start": 0,
+        "end": 17,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Thyroup 100 Tablet",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Jedacef S 1000mg/500mg Injection",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Dececlo MR 250mg/50mg/325mg Tablet",
+    "entities": [
+      {
+        "start": 0,
+        "end": 34,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Mignil 10mg/500mg Tablet",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "clea 1000mg/1000mg Injection",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Gadof 200mg Tablet",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Imulast 400 Tablet",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Avcort Tablet",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Olmecap 40mg Tablet",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Liturgic LC 5mg/10mg Tablet",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Itrocor 200mg Capsule",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Atawis 10mg Syrup",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Doxep 25mg Capsule",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Cydon Oral Drops",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Cixar O 200mg/200mg Tablet",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Agzole 40mg Tablet",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Sezex 200mg Tablet",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Vopril MV 2mg/500mg/0.3mg Tablet",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Atorwin 20mg Tablet",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Oflotag 100mg Tablet DT",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Setleo 500mg Tablet",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Capiflox OZ Oral Suspension",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Nexaparin 40mg Injection",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Rosutor Gold 20/75 Capsule",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Startel H 40mg/12.5mg Tablet",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Serous 10mg Tablet",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Olfa 200mg Tablet",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Avicus 40mg Tablet",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Smorex DM Syrup",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Levotum OZ Oral Suspension",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Itril 100mg Capsule",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Cuclav LB 500mg/125mg Tablet",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Lulisun 1% Cream",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "RantacInfant Syrup Mint",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Velfex37.5mg Tablet",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Omsys-DSR Capsule",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "RiaxolSB 1000mg/500mg Injection",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Tyther-150mg Injection",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Pantopril-40mg Injection",
+    "entities": [
+      {
+        "start": 0,
+        "end": 14,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Krisp-2mg Tablet",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Truit-200mg Tablet",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Norbi-20mg Tablet",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Vomcon-2mg Injection",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Abtel 40 Tablet",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Olmesartan Medoxomil, Amlodipine and Hydrochlorothiazide Tablets TriOlmesar nACLEODS Triolmesar 20 Tablet",
+    "entities": [
+      {
+        "start": 85,
+        "end": 95,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Triolmesar 20",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "Triolsar 20 HS",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "I was prescribed Triolsar 20 HS for my condition",
+    "entities": [
+      {
+        "start": 17,
+        "end": 25,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "M.R.P.Rs.93.50 Pa B.No.URWT24002 MFe Uriwe RaiA Ife Sclerice.PvtLid Pot No. 34.Sectar-BA, 16, 3DCUL HAddwar249403, Utarakhand, Indla VHO. GMp& ISU 900S9015 Certufied f0.4 Uriwell0.4 Uriwel 0.4 WLRON HEALTHCARE PVT, LTD Nar xed n ihdia by: O5 Msngal Bhsan, JPRLC32,ndustan Chamber, Grond Floor No, 6. Swdes Met Kaba Deh Boad, Munbga02 Ss0 9001:2015 A GMP Certfied Cqp Tamsulosia Tablets BP *Prolonged-telease TABLETS Uriwell O.4 46A90.4 You 21 Noy 2024, 06;51 PM",
+    "entities": [
+      {
+        "start": 171,
+        "end": 181,
+        "label": "MEDICINE"
+      }
+    ]
+  }
+]
