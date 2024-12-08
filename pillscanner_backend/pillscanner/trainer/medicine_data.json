@@ -823,5 +823,35 @@
         "label": "MEDICINE"
       }
     ]
+  },
+  {
+    "text": "TRIOLSAR 0 lr T",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "TRIOLSAR0 lr T",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "MEDICINE"
+      }
+    ]
+  },
+  {
+    "text": "TRIOLSAR20 lr T",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "MEDICINE"
+      }
+    ]
   }
 ]
