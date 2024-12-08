@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "pillscanner_backend/pillscanner_backend/wsgi.py",
+      "use": "@vercel/python"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "pillscanner_backend/pillscanner_backend/wsgi.py"
+    }
+  ]
+}
