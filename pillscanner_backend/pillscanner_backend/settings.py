@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-*v4yoqlnshvf655&98cg_*er$6bc8fqhxtn+)ualnz5sf6utnb
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['pillscanner.vercel.app', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 
