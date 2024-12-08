@@ -1,1 +1,1 @@
-gunicorn pillscanner_backend.wsgi:application
+web: gunicorn --env DJANGO_SETTINGS_MODULE=pillscanner_backend.settings pillscanner_backend.wsgi:application
